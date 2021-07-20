@@ -1,2 +1,2 @@
-# KidFlix
+# KidsFlix
 Recriando interface da netflix.
